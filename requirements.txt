@@ -1,0 +1,10 @@
+streamlit
+streamlit_option_menu 
+pandas
+ydata_profiling
+streamlit_pandas_profiling
+pygwalker
+streamlit.components.v1
+dotenv
+pandasai
+pandasai.llm.openai
